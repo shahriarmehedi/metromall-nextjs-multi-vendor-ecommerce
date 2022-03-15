@@ -11,7 +11,7 @@ const Navbar = () => {
 
                 <div className=" cursor-pointer">
                     <Link href="/" passHref>
-                        <Image src="/img/pizzeria-Logo.png" width="172" height="41" alt="" />
+                        <h3 className="text-2xl font-bold">MetroMall</h3>
                     </Link>
 
                 </div>
